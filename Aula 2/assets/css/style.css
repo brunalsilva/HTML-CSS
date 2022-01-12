@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
 
 h1 {
-    font-size: 60px;
+    font-size: 50px;
     font-family: 'Rajdhani', sans-serif;
     color: #0e0a11;
     text-align: center;
@@ -31,8 +31,10 @@ img {
 }
 
 body {
- background-color: #f1ece4;
+ background-color: #fff1f1;
 }
+
+
 
 .capa {
  height:300px
@@ -83,4 +85,24 @@ body {
 .tm-social {
     width: 60px;
     height: 60px;
+}
+
+.square {
+    background: cornflowerblue;
+    width: 50px;
+    height: 100px;
+}
+
+/*Estilos da página contato.html*/
+form {
+    font-size: 25px;
+    font-family: 'Poiret One', cursive;
+    color: rgb(0, 0, 0);
+}
+
+button {
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
 }
